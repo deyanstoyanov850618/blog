@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sitz-Fleisch"
+title:  "Sitzfleisch"
 date:   2025-07-05 23:00:00 +0300
 categories: main
 ---
