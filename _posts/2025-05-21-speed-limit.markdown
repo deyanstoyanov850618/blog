@@ -19,5 +19,5 @@ Geschwindichkeitbegrenzungen. Ограничение на скоростта.
 Шефът ми в Германия където работих твърде кратко, Нико се казваше, живееше на 120 километра от работа. 
 Казва, обичам си колата, по аутобана съм за нула време на работа.
 
-![image tooltip here](/assets/images/germans.jpg)
+![]({{site.baseurl}}/assets/images/germans.jpg)
 

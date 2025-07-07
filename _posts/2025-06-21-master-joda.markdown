@@ -13,4 +13,4 @@ Mighty the dark side is :-]
 Близначките - Буба и Нели :-] 
 Я на Владо Тричков, я в Германия.
 Обичам дядо Тодор :-]  
-![image tooltip here](/assets/images/joda.jpg)
+![]({{site.baseurl}}/assets/images/joda.jpg)
