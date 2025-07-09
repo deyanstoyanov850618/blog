@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Приятелите ще видят тук себе си, любопитния читател ще види интересни, важни и общочовешки теми. 
   Семейството ми ще ме види по начин чрез който надявам се да ме разбере. 
   Най-сетне, пиша този блог за да разбера и себе си по-добре.
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bilkova.eu" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

@@ -2,7 +2,7 @@
 layout: post
 title:  "Мастър Йода"
 date:   2025-06-21 9:56:00 +0300
-categories: main
+tags: кокаляне изкуство рисуване
 ---
 Mighty the dark side is :-]
 
