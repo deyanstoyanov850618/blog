@@ -2,7 +2,7 @@
 layout: post
 title:  "Да си седнал, to sit"
 date:   2025-06-26 12:47:00 +0300
-categories: main
+tags: философия
 ---
 Sit = сит = ти с
 
