@@ -7,7 +7,8 @@ title: "Архив"
 </div> </br>
 
 <div id="tags-list">
-{% for tag in site.tags %}
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
   {% assign tag_name = tag | first %}
   {% assign tag_name_pretty = tag_name | replace: "_", " " | capitalize %}
   <div class="tag-list">
