@@ -7,11 +7,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Най-сетне, пиша този блог за да разбера и себе си по-добре.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bilkova.eu" # the base hostname & protocol for your site, e.g. http://example.com
+paginate: 5
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-feed 
+  - jekyll-paginate
   
 
 
