@@ -14,8 +14,7 @@ jobs:
   # This workflow contains a single job called "greet"
   run_scripts:
     permissions:
-      contents: read
-      contents: write
+      contents: read write
     runs-on: ubuntu-latest
     steps:
     - name: checkout repo
@@ -30,6 +29,3 @@ jobs:
           git rm _drafts/$(date +'%Y-%m-%d')*
           git commit -m 'Deploy todays posts'
           git push origin main
-      env:
-         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
-         username: github-actions
