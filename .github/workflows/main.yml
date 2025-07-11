@@ -15,7 +15,7 @@ jobs:
   run_scripts:
     permissions:
       contents: read
-      pages: write
+      contents: write
     runs-on: ubuntu-latest
     steps:
     - name: checkout repo
