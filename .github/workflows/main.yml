@@ -2,7 +2,7 @@ name: Cron workflow
 
 on:
   schedule:
-    - cron:  "*/50 * * * *"
+    - cron:  "0 6 * * *"
 
 jobs:
   run_scripts:
