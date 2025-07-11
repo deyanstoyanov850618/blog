@@ -18,8 +18,8 @@ jobs:
     - name: git
       run: |
           git config --local user.name deyanstoyanov850618
-          git add _posts/$(date +'%Y-%m-%d')*
-          git rm _drafts/$(date +'%Y-%m-%d')*
+          git add _posts/$(date +'%Y-%m-%d')* || echo "No posts to add in git today."
+          git rm _drafts/$(date +'%Y-%m-%d')* || echo "No drafts to delete in git today."
           if ! git diff-index --quiet HEAD; then
              git commit -m 'Deploy todays posts'
              git push origin main
