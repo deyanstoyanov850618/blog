@@ -1,10 +1,9 @@
-name: Manual workflow
+name: Cron workflow
 
 on:
-  workflow_dispatch:
-    inputs:
-      name:
-        description: 'Moves todays posts from _drafts to _posts'
+  schedule:
+    - cron:  '0 5 11 ? * *'
+
 jobs:
   run_scripts:
     permissions:
