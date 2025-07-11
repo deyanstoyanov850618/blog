@@ -13,6 +13,9 @@ on:
 jobs:
   # This workflow contains a single job called "greet"
   run_scripts:
+    permissions:
+      contents: read
+      pages: write
     runs-on: ubuntu-latest
     steps:
     - name: checkout repo
