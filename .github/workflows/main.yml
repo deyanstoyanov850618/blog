@@ -28,7 +28,7 @@ jobs:
     - name: Copy the current drafts to posts
       run: cp _drafts/$(date +"%Y-%m-%d")* _posts/
     - name: checkout repo
-        uses: actions/checkout@v4
+      uses: actions/checkout@v4
     - uses: EndBug/add-and-commit@v9
       with:
         add: '_posts/$(date +"%Y-%m-%d")*'
