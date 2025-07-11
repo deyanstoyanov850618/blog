@@ -18,9 +18,9 @@ jobs:
     - name: checkout repo
       uses: actions/checkout@v4
     - name: move the current drafts to posts
-      run: mv _drafts/$(date +"%Y-%m-%d")* _posts/
+      run: mv _drafts/$(date +'%Y-%m-%d')* _posts/
     - uses: EndBug/add-and-commit@v9
       with:
-        message: Add todays posts - $(date +"%Y-%m-%d")
-        add: _posts/$(date +"%Y-%m-%d")*
-        remove: _drafts/$(date +"%Y-%m-%d")*
+        message: "Add todays posts - $(date +'%Y-%m-%d')"
+        add: "_posts/$(date +'%Y-%m-%d')*"
+        remove: "_drafts/$(date +'%Y-%m-%d')*"
