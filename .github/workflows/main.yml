@@ -25,10 +25,10 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - name: Copy the current drafts to posts
-      run: cp _drafts/$(date +"%Y-%m-%d")* _posts/
     - name: checkout repo
       uses: actions/checkout@v4
+    - name: copy the current drafts to posts
+      run: cp _drafts/$(date +"%Y-%m-%d")* _posts/
     - uses: EndBug/add-and-commit@v9
       with:
         add: '_posts/$(date +"%Y-%m-%d")*'
