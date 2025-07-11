@@ -14,11 +14,13 @@ jobs:
     - name: checkout repo
       uses: actions/checkout@v4
     - name: move the current drafts to posts
-      run: mv _drafts/$(date +'%Y-%m-%d')* _posts/
+      run: mv _drafts/$(date +'%Y-%m-%d')* _posts/ || echo "No drafts for posts today."
     - name: git
       run: |
           git config --local user.name deyanstoyanov850618
           git add _posts/$(date +'%Y-%m-%d')*
           git rm _drafts/$(date +'%Y-%m-%d')*
-          git commit -m 'Deploy todays posts'
-          git push origin main
+          if ! git diff-index --quiet HEAD; then
+             git commit -m 'Deploy todays posts'
+             git push origin main
+          fi
