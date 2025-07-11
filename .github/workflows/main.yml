@@ -1,8 +1,10 @@
-name: Cron workflow
+name: Manual workflow
 
 on:
-  schedule:
-    - cron:  '5 11 * * *'
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Moves todays posts from _drafts to _posts'
 
 jobs:
   run_scripts:
@@ -23,3 +25,4 @@ jobs:
              git commit -m 'Deploy todays posts'
              git push origin main
           fi
+          date
