@@ -16,10 +16,14 @@ theme: minima
 plugins:
   - jekyll-feed 
   - jekyll-paginate
+  - jekyll-date-localization
   
 tag_page_layout: tag
 tag_page_dir: tag
 
+
+date_locale: bg
+locales_path: _locales
   
 
 
