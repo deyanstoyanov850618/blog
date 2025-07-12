@@ -8,6 +8,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bilkova.eu" # the base hostname & protocol for your site, e.g. http://example.com
 paginate: 5
+
 timezone: Europe/Sofia
 
 # Build settings
@@ -15,6 +16,10 @@ theme: minima
 plugins:
   - jekyll-feed 
   - jekyll-paginate
+  
+tag_page_layout: tag
+tag_page_dir: tag
+
   
 
 

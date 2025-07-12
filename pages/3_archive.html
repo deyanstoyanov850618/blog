@@ -1,26 +1,4 @@
 ---
-layout: default
+layout: tag_page
 title: "Архив"
 ---
-<h3>
-  Търсене по тагове
-</h3> 
-</br>
-<div id="tags-list">
-{% assign sorted_tags = site.tags | sort %}
-{% for tag in sorted_tags %}
-  {% assign tag_name = tag | first %}
-  <div class="tag-list">
-    <div id="#{{ tag_name | slugize }}"></div>
-    <div> таг #{{ tag_name }}: </div>
-    <a name="{{ tag_name | slugize }}"></a>    
-     {% for post in site.tags[tag_name] %}     
-       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}       
-         <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> - <i>{{ post.date | date: date_format }}</i>
-         <br/>         
-     {% endfor %}
-     <br/> 
-  </div>
-{% endfor %}
-
-</div>
