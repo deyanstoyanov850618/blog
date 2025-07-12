@@ -27,7 +27,7 @@ tags: програмиране кокаляне германия
 Garbage in, garbage out.
 
 
-Като в един от скечовете на Робин Уилямс:  
+Един от скечовете на Робин Уилямс:  
 --What you poured me in the glass?  
 --Water.  
 --Let's hope so! (Да се надяваме, че е бира :-])  
