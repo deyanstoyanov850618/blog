@@ -22,7 +22,8 @@ jobs:
       run: mv _drafts/$(date +'%Y-%m-%d')* _posts/ || echo "No drafts for posts today."
     - name: git
       run: |
-          git config --local user.name deyanstoyanov850618
+          git config --global user.name deyanstoyanov850618
+          git config --global user.email deyanstoyanov850618@gmail.com
           git add _posts/$(date +'%Y-%m-%d')* || echo "No posts to add in git today."
           git rm _drafts/$(date +'%Y-%m-%d')* || echo "No drafts to delete in git today."
           if ! git diff-index --quiet HEAD; then
