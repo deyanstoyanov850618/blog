@@ -32,6 +32,7 @@ jobs:
       env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   build:
+      needs: run_scripts
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -57,6 +58,7 @@ jobs:
 
   # Deployment job
   deploy:
+    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
