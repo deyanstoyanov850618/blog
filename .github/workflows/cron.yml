@@ -36,7 +36,7 @@ jobs:
       steps:
         - name: Checkout
           uses: actions/checkout@v4
-        - name: Take latest commit fron the run_scripts job
+        - name: Take latest commit from the run_scripts job
           run: |
             git config --global user.name deyanstoyanov850618
             git config --global user.email deyanstoyanov850618@gmail.com
