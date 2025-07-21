@@ -14,19 +14,15 @@ ack \
 --no-filename \
 . \
 -o \
---match 'https://[a-zA-Z0-9_\-./=]+no' > ../urls.txt
-
-wget --random-wait --content-disposition -i ../urls.txt
+--match 'https://[a-zA-Z0-9_\-./=]+no' > ../backup/urls.txt
 
 mkdir -p ../backup/images
-mv *.jp* ../backup/images
-mv *.png* ../backup/images
+wget -q --random-wait --content-disposition -P ../backup/images -i ../backup/urls.txt
 
 zip -r ../backup$(date +"-%d-%m-%Y").zip ../backup/
 
 #clean up
 rm -rf ../backup/
-rm ../urls.txt
 
 #list backups
 ls -lah ../backup-*
