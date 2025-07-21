@@ -1,6 +1,6 @@
 _site/
 .jekyll-cache
 **/*.*~
-#*#
+*#*#
 Gemfile.lock
 to_do.txt
