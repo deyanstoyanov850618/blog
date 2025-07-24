@@ -1,0 +1,12 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+@font-face {
+  font-family: 'Cyrvetica v2 Extra';
+  src: url('Cyrvetica_v2_Extra_Light.otf') format('otf'); 
+  font-weight: normal;
+  font-style: normal;
+}
