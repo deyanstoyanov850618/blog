@@ -4,9 +4,12 @@
 
 @import "minima";
 
-@font-face {
-  font-family: 'Cyrvetica v2 Extra';
-  src: url('fonts/Cyrvetica_v2_Extra_Light.woff2') format('woff2'); 
+.tiktok-sans-normal {
+  font-family: "TikTok Sans", sans-serif;
+  font-optical-sizing: auto;
   font-weight: normal;
   font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100;
 }
