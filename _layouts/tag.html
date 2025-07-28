@@ -1,7 +1,24 @@
 ---
 layout: default
 ---
+<script>
+ const preloadImage = src => 
+  new Promise((resolve, reject) => {
+    const image = new Image()
+    image.onload = resolve
+    image.onerror = reject
+    image.src = src
+  });
+ 
+{% for post in page.posts %}
+  {% if post.pictureUrl %}
+	   preloadImage("{{post.pictureUrl}}");
+  {% endif %}
+{% endfor %}
+</script>
+
 <h2>{{ page.tag }}</h2>
+
 <ul>
 {% for post in page.posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | localize: '%d. %B %Y' }}</li>
