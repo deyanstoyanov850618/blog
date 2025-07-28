@@ -23,8 +23,8 @@ $table-text-align: left !default;
 // Width of the content area
 $content-width:    800px !default;
 
-$on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-palm:          500px !default;
+$on-laptop:        600px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -35,6 +35,18 @@ $on-laptop:        800px !default;
 // }
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin media-query-max-width-mobile($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin media-query-min-width-laptop($device) {
+  @media screen and (min-width: $device) {
     @content;
   }
 }
