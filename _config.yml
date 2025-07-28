@@ -29,6 +29,6 @@ tag_page_dir: tag
 date_locale: bg
 locales_path: _locales
 
-google_analytics: G-SVXL226WEF
+google_analytics: GA4-496168856
 
 exclude: [to_do.txt, README.md, LICENSE, delete_meta_files.sh, backup.sh, CNAME]
