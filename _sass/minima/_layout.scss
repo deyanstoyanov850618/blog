@@ -185,9 +185,8 @@
     width:         calc(100% - (#{$spacing-unit} / 2));
   }
   .footer-bottom {
-    //border-style: solid;
-	padding-left: 15%;
-	margin-up: 0%;
+    //border-style: solid;	
+	text-align: center;
 	color: $grey-color-dark;
 	@include relative-font-size(0.75);
   }
