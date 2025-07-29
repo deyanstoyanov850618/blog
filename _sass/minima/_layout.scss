@@ -248,6 +248,14 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  img:not(.custom) {
+  	  border: 2px solid #ddd;
+  	  border-radius: 8px;
+  	  display: block;
+  	  margin: left;
+  	  width: 100%;
+  	  object-fit: fill;
+  }
 
   h2 {
     @include relative-font-size(2);
