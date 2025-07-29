@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Стипца"
+date:   2025-08-02 05:00:00 +0300
+tags: германия
+pictureUrl : "https://lh3.googleusercontent.com/pw/AP1GczPV-r0qNgKCR34UhCeTiIw1zx6TrCAadFino1-A_Gfbr9XSQl_hl7YDMqpInQiGU33ZCl3VxfQmAHWTe7lwe3m2LCpbkJEJZANzhgTQXt7IyCuM9P-hceAZXJ_qxYLLbxB_sLfhdnEo2UfE1uBWC8tfwABb4-Iwx0RejzBjlq4IxKuK6wYTWsNh86jNUSBPfEVZhDmHQyXNqfsnpcHQuVbM5_IB9cR2pbONMEn-Q8QIZtDRF8LP4_xPqi8-aquYNlqxIPCGD8ap-gi-D4dNajiOshGBC_R1PkAIJRI52MwaU_6vluJd2LzYF7uwvh0s5GgAngZQXTC664CMaAPbFCc-vc2pHGQV84bJpbAinJ3tcnQy2p31Gp1quKj2Gi60eMYuJBvmf_KwJzLQzacsgohtIQuotV5oF99OK75fLniJ9bMs6TqJytpOrOsjhgCMF0BM_7RribGaIpuYEx_b3dKi4pse1_VK6E42rQJyYW941L5B7Qm552_Hr-8lcKxjpoiCoLfSX_N0QKDweTzjjcTrYsGatR-_szRsDemKPJhwFiPn3ps9IB71ImWiWZ0469r5s3yno-F7-rNdanH3zspZhfjNlgDJt7JJSfShG3juikKuxPhelQTADl0fdyAOipW-_8gXxlAeJpUcoFhedHM3telSxIdT6QWG8JhN2fpOZ3jI57-keKbpR59HOOL9s0svJteRvvPZVnMChfI5XIQANusR70fhfel_xhINcQaIGnhMJPSuYY5GnskXlcuI3qjF5BFQkXXiDwZ8toUD9YmkqfeuX-TZi8AQX1A0nvWPVo2cJArE6uVhrcY5NDjvSL3xv_l-0FFHUi7Aq6_xwLllBlkToffxNnwL-I00VjJ8250379pO_fVEcnFKCmbjP_I87Na3oEHa7DuwgwSOCXjqPSH8mwLmjyyh2wmKVGdNSLsgTmT774q6pw=s275-no"
+---
+
+<img width=180 align="left" style="margin-right:5px" src="{{page.pictureUrl}}"/>
+
+Дълго време се мъчих в бръсненето с комбинация от електрически
+машинки и самобръсначки които откровено лъжеха, защото нито бръснеха
+брада на четири дни, нито го правеха сами. Дълго време ползвах и
+само машинки, ходех ефективно с двудневна брада, раздразнена кожа
+и настроение. Ако се случи да няма ток за този аксесоар където ходя,
+човек изпада в необходимост от бензинов тример. Накрая се реших да си взема
+бръснач със сменяеми ножчета, т.к. не си представях да точа на колан
+който да слагам в багажа си. Страшно е чувството като доближиш това
+острие към лицето си за пръв път, особено, ако си преобладаващо дърводелец.
+Месеци опит бяха нужни за овладяването на това умение, но с него можех
+да си позволя да не се бръсна със седмици, но когато го направех да
+не завися от технологии като ядрени централи и компактни двигатели
+с вътрешно горене. Освен това гладкото при това бръснене е толкова
+гладко, че лепне. Стига да не е от съсирена кръв, но такъв е опитът на
+първите месеци. Забелязах интересен феномен. Когато пия бира, фината
+моторика се подобрява в такава степен, че човек не се порязва при бръснене.
+Оттам и предимно нощните бръснения. Несравнимо е чувството след такова
+бръснене, сякаш човек диша през кожата си. Като дете гледах за
+пръв път в местната бръснарница как се бръсне с бръснач. Чайници с
+гореща вода, кърпи, цилиндрични зелени сапуни, стипци. Помнех един
+клиент който се бръснеше всеки ден в тая бръснарница. Сигурно ходеше и
+заради разговорите със Стоян бръснаря, но брадата му беше гъста. Ето за
+такива бради е измислено бръсненето с бръснач. Тази услуга ми липсваше.
+Мислех си колко е поскъпнал живота щом човек не може да си
+позволи вече да се бръсне всеки ден на бръснар. Ходил съм общо три
+пъти. И трите пъти не останах доволен, т.к. явно тези хора не бръснеха
+често. Подстригваха, а не бръснеха. Те себе си не биха могли да обръснат добре.
+
+Помня веднъж преди да отида в Германия се бях подстригал сам толкова зле,
+че се наложи да се обръсна нула номер. Тази реклама е в моя чест :-]
+  
+[Free Fanta Advertisment](https://youtu.be/fnD3F9k-w70?si=LbDuVMVRizg-ZUwf)

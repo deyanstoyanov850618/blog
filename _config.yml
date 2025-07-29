@@ -19,8 +19,7 @@ plugins:
   - jekyll-date-localization
   
 feed:
-  posts_limit: 20
-  tags: true
+  posts_limit: 20000
   
 tag_page_layout: tag
 tag_page_dir: tag
