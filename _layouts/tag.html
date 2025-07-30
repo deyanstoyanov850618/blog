@@ -26,8 +26,14 @@ layout: default
 </ul>
 
 <div id="tag-cloud">
-    {% for occupation in site.data.tags.occupations %}
-    	<a href="{{site.baseurl}}/tag/{{ occupation }}.html">{{ occupation }}</a>
+    {% for art in site.data.tags.arts %}
+    	<a href="{{site.baseurl}}/tag/{{ art }}.html">{{ art }}</a>
+    {% endfor %} |
+    {% for science in site.data.tags.sciences %}
+    	<a href="{{site.baseurl}}/tag/{{ science }}.html">{{ science }}</a>
+    {% endfor %} |
+    {% for school in site.data.tags.schools %}
+    	<a href="{{site.baseurl}}/tag/{{ school }}.html">{{ school }}</a>
     {% endfor %} |
     {% for place in site.data.tags.places %}
     	<a href="{{site.baseurl}}/tag/{{ place }}.html">{{ place }}</a>
@@ -35,10 +41,10 @@ layout: default
     {% for country in site.data.tags.countries %}
     	<a href="{{site.baseurl}}/tag/{{ country }}.html">{{ country }}</a>
     {% endfor %} |
-    {% for thing in site.data.tags.stuff %}
-    	<a href="{{site.baseurl}}/tag/{{ thing }}.html">{{ thing }}</a>
-    {% endfor %} |
     {% for human in site.data.tags.people %}
     	<a href="{{site.baseurl}}/tag/{{ human }}.html">{{ human }}</a>
-    {% endfor %}     
+    {% endfor %} |
+    {% for misc in site.data.tags.miscs %}
+    	<a href="{{site.baseurl}}/tag/{{ misc }}.html">{{ misc }}</a>
+    {% endfor %}
 </div>
