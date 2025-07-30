@@ -18,7 +18,6 @@ layout: default
     {{ content }}
   </div>
   
-  {% assign spaces = '   ' %}
   {%- if page.tags -%}
     {% for tag in page.tags %}
         <a href="{{site.baseurl}}/tag/{{ tag }}.html">
