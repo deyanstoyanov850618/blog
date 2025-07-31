@@ -2,7 +2,7 @@ name: Cron workflow
 
 on:
   schedule:
-    - cron:  '8 5 * * *'
+    - cron:  '0/30 4-8 * * *'
   workflow_dispatch: 
   
 permissions:
