@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Винаги на пост"
+date:   2025-08-09 05:00:00 +0300
+tags: философия
+pictureUrl: "https://lh3.googleusercontent.com/pw/AP1GczOFvhB7EGbD3hLcuBrEU8RZp1clNm3NbcPjuHZR_0Is552iO0VftbwoQCCzaszBe9RH5RUHtUZ32SQz16fyT3NEbeTehfS6vLNlJFozScIub4OQW_35mhfJ_eBFPjbYfq9gBQ2yDx73xcu1edfIiaAmVz6zSV2s7r4vp_HOhecWZgysk2s8E9Y0fEsW-qKvZReVZrZrkolge3wWgPTNjJkAbpUvUbLWVVSw8u2c3MEFX7gCJdMNDa0bRwr1Ekwvk34E1d5Ug-Sa_kOiTHFnBq8q_Tlyx4vXrepwhKyqM2pIc9pkvT4OuhjrxNcMAY4QT4M5lgw0UTzC-C3twVdFcDaxTEJkXbfWCy9BJll4zQs9QCkS256N1DdbQmgGVSAo9WTmoYsyKpjvVSwHIuK3eiAAADgryGU-3CH9LfO5nDhfCmVqPRJTI4U1b62bhnfSUXH-M0zxUninZxnhZU_NzXo3TOoIkgzBjArnGd-tWk5hEvAhZ-LL1ObWDyBpEHnY9P3HU1NQeBMklXP2-0VB75-YnONllmcp3N_KsPt2p6GAgEsDwp_tZwnusZNRxi0oGUis3FmWsXqBjiU5puvNtSqS21Vivm_VS3YLo5ZFsjRW015NKAzYKHWyIO8m8slYpW1zTenXl0ZWMMm2Cuz6973KQW2eUCH4darCojnMsoSNFCDaTS0N5BlS7I9TEcI1aRt5FDk1WTGjyeSSbAVKRztSkX9JB1ptgMFs7RnoAQcKywJp4Xcdwnf067bvq_1RQF2PTcWF1DmL8uoFPhZfkelLkxV0CMO6auCupzGeFHAt37QOsBV8CMRXoOIQ3qhxTknoHIemVBr-Quh9pnGjDgoLeDllZX_UKlvO85Dp3rHu3paLKOwKlMxa8mBjNgIiEEu3oT5V1ER06YNPexozGfpnN0DnlUvrj-RG_qTJmZX5GUyDcpHSW9hq=w832-h473-no"
+---
+Като бях дете си представях, че съм котка която стои вечер на точно определен
+уличен стълб до нас - над неговата лампа, по-точно. Харесвах жуженето на лампите
+и жълтата натриева светлина която пръскат по улиците. Харесвах и като видя в ранна сутрин.
+когато вече се развиделява. още светещите лампи - като човек който се е разхождал нощем
+и е забравил в меланхолията си да си легне. Обичам и стари лампи които не работят.
+Просто стоя и ги гледам. Така гледах една стара лампа в стария зоопарк в Добрич,
+който вече пустееше и беше погълнат от гората. Помня от дете, че тая лампа
+беше до клетката на бухала. Същата лампа, пак неработеща, виждам пред Стопански факултет.
+Гледам я, какво да я правя. Свидна ми е. Сигурно аз съм сега бухала :-]
+Често се разхождам пред Стопанския и Философския факултет.
+Уличните лампи са си постове, стълбове - идва от английското post. Като постове в блог например.
+Тия постове си ги пращам на пощата, posts for the post office. С една дума - пощальон - postman.            
+Наясно съм, че постовете ми някога са резки и могат да причинят пост травматичен стрес.  
+Лично аз в момента живея в епохата на пост модернизма търсейки поприще извън програмирането.
+Често постановявам и обнародвам неща които ми се ще да са така. Постно ще да е менюто, 
+ако само с това се препитавам, но ... Постепенно се надявам да се напасна към постното и 
+вкуса на аудиторията. Това се нарича предполагам да постиш :-]
+
+The postman near his post. The shadow in the right. Oil painting of mine.
+
+![]({{page.pictureUrl}})
