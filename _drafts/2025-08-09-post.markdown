@@ -23,6 +23,6 @@ pictureUrl: "https://lh3.googleusercontent.com/pw/AP1GczOFvhB7EGbD3hLcuBrEU8RZp1
 ако само с това се препитавам, но ... Постепенно се надявам да се напасна към постното и 
 вкуса на аудиторията. Това се нарича предполагам да постиш :-]
 
-The postman near his post. The shadow in the right. Oil painting of mine.
+The postman near his post. The shadow on the right. Oil painting of mine.
 
 ![]({{page.pictureUrl}})
