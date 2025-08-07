@@ -24,27 +24,12 @@ layout: default
   <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | localize: '%d. %B %Y' }}</li>
 {% endfor %}
 </ul>
-
+<br/>
 <div id="tag-cloud">
-    {% for art in site.data.tags.arts %}
-    	<a href="{{site.baseurl}}/tag/{{ art }}.html">{{ art }}</a>
-    {% endfor %} |
-    {% for science in site.data.tags.sciences %}
-    	<a href="{{site.baseurl}}/tag/{{ science }}.html">{{ science }}</a>
-    {% endfor %} |
-    {% for school in site.data.tags.schools %}
-    	<a href="{{site.baseurl}}/tag/{{ school }}.html">{{ school }}</a>
-    {% endfor %} |
-    {% for place in site.data.tags.places %}
-    	<a href="{{site.baseurl}}/tag/{{ place }}.html">{{ place }}</a>
-    {% endfor %} |
-    {% for country in site.data.tags.countries %}
-    	<a href="{{site.baseurl}}/tag/{{ country }}.html">{{ country }}</a>
-    {% endfor %} |
-    {% for human in site.data.tags.people %}
-    	<a href="{{site.baseurl}}/tag/{{ human }}.html">{{ human }}</a>
-    {% endfor %} |
-    {% for misc in site.data.tags.miscs %}
-    	<a href="{{site.baseurl}}/tag/{{ misc }}.html">{{ misc }}</a>
-    {% endfor %}
+    {% for category in site.data.tags %}    	
+	   <span>{{ category[0] }} : </span>
+	   {% for tag in category[1] %}
+		<a href="{{site.baseurl}}/tag/{{ tag }}.html">{{ tag }}</a>    	 
+	   {% endfor %}</br>
+    {% endfor %}    
 </div>
