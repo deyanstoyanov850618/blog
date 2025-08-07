@@ -2,7 +2,7 @@
 layout: default
 ---
 <script>
- const preloadImage = src => 
+  const preloadImage = src => 
   new Promise((resolve, reject) => {
     const image = new Image()
     image.onload = resolve
@@ -24,7 +24,7 @@ layout: default
   <li>
   	<a href="{{ post.url }}">{{ post.title }}</a>  	
   	<span class="mobile-tags-view cyrillic-date" comment="we skip the date on mobile"></span>
-  	<span class="desktop-tags-view cyrillic-date"> - {{ post.date | localize: '%d. %B %Y' }}</span>	
+  	<span class="desktop-tags-view cyrillic-date"> - {{ post.date | localize: '%d. %B %Y' }}</span>
   </li>
 {% endfor %}
 </ul>
@@ -32,9 +32,9 @@ layout: default
 <div id="tag-cloud">
     {% for category in site.data.tags %}   	   
 	   <span><b>{{ category[0] }} > </b></span>
-	   {% for tag in category[1] %}
-		<a href="{{site.baseurl}}/tag/{{ tag }}.html">{{ tag }}</a><span> ·</span>  	 
-	   {% endfor %}
+	   {% for tag in category[1] %}         
+	      <a href="{{ site.baseurl }}/tag/{{ tag }}.html">{{ tag }}</a><span> ·</span> 
+	   {% endfor %}   
 	   <span class="desktop-tags-view"></br></span>
     {% endfor %}
 </div>
