@@ -30,13 +30,11 @@ layout: default
 </ul>
 <br/>
 <div id="tag-cloud">
-    {% for category in site.data.tags %}
-   	   <span class="mobile-tags-view">|</span>
+    {% for category in site.data.tags %}   	   
 	   <span>{{ category[0] }} > </span>
 	   {% for tag in category[1] %}
 		<a href="{{site.baseurl}}/tag/{{ tag }}.html">{{ tag }}</a><span> ·</span>  	 
 	   {% endfor %}
 	   <span class="desktop-tags-view"></br></span>
     {% endfor %}
-    <span class="mobile-tags-view">|</span>
 </div>
