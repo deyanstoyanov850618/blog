@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Pirin Hill"
+date:   2025-08-11 00:00:00 +0300
+tags: пътепис благоевград
+pictureUrl : "https://lh3.googleusercontent.com/pw/AP1GczNC6kKR_hAkcwPDl3f8sfhJYHe_CmT0R640qTmXUP8vVIL4Ki63MORoHSI9muFA0aL1EsAl1K4YKZo5F03rbxW5516nZusBDVnmiI57jqlDgR7JCwvia1w_46mxdY2AdDsEWIDBSXA3gbkvLWddwqfifbJXpLTNw-x6zWcK5PrOrGqdQ2t9mgvccZoHd60WsURoxDMZCLZ3I8X_e6j23FgWQXbRosEk7NECksdwMp-PxdtFoozzJrF3XQp9dwr3VXn5oTaEUfBtU_anMTq2oXoKIvbQmZUPTI_Ywz8uvtjzbs27cno4P4_gq03yHwu_WrcbkFSR3YnjCX6AkBUjZxPbWqNy2YdcsI0GTLzmnFAkXMpmCFtiZVinbPgcp_nYL6V5Yp7ep02YhT-MSI_K-JCsKiU51wbiWY3aJIjQHGw7xRqo00bu2PG-D3ejQJq8Jg_P3Q26YX-H0xUrZX_9BQBST1VmfpughUX4xhv07zBmR0GNKVcjTyamtntdU4VhI-EDvTWUXXu7MsOb8sXG2jEswIKKEsOApPjXn7JV139jpQB4id_Iad0pRDfOyUw4Ay4iL4TEdjAqdM1NXkfxxeaemRnRaZ_jME9vtWfe2vwsx7St3z373mO0DTcf28zmkHhL8j3d9NHTTG0HOl3kdeK8C8QSdY3WvL8uCXYb-3aftJWG8Jw4ZLWpZob0RrbmcG5Y3weBtTMr4nXStw58oOrCN69KcSIb4Xm7CXQoWlMXtGR8M9KM10FygtNmwpDarOn4dSbiJHuDtDK7j_-onD0jsdEs9qH4MV7Pi8SdjEZTVObl8dz3DxFiiJ30XgMqNAu7aug3Va4S2-vI2ysDTr60D_Hs5xJ9Atm1z_4HuDs_-dC_IUE_PJI6lR2RPgHKtMgjbcZOutKKl7kYVtuor91vzKihhM_F0KLQDhVJ_RMbAP-h9QYd44AHUH4=w958-h539-no"
+---
+Мариела ми беше подарила чорапи Pirin Hill.
+Сякаш автоматично това ме изпрати в Благоевград.
+Като съм карал кола преди и съм минавал през тоя град
+все съм гледал крайните квартали и съм се радвал на
+добре изглеждащите блокове. Кой би предположил, че
+щях да прекарам там цели 8 месеца. Квартал Еленово.
+На 8-я етаж. Мансарда под звездите, като от песента.
+Имаше две села които се виждаха нощем от апартамента -
+Марулево и Церово. Много ми харесваха, защото от тях
+се откриваше гледка чак до Македония и към Рила.
+Ходех покрай хвойновите храсти и се радвах на гледката.
+По поляните имаше минзухари и дребни подобни на мъх цветя.
+Срещаха се папуняци и чучулиги - друг, южен свят.
+Ходех и често на кръста над града където с Мариела 
+бяхме лежали на хамаци веднъж. Един ден докато се 
+тулех зад тия хвойнови храсти, зад един от тях изкочи
+овчар заедно със цялото си стадо и кучето си.  
+-- Шо дириш тука?  
+Стъписах се. Отначало не го познах. Предните дни бях
+ходил с джипката в много затънтен район на Марулево
+в планината и бях стигнал трудно достъпния му иначе двор.
+Беше се уплашил преди мене и беше решил да върне жеста :-]
+После много се смях да диалекта му, но наитина ме беше уплашил.
+
+Снимка от високата част на Марулево към Благоевград.
+
+![]({{page.pictureUrl}})
