@@ -21,7 +21,11 @@ layout: default
 
 <ul>
 {% for post in page.posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | localize: '%d. %B %Y' }}</li>
+  <li>
+  	<a href="{{ post.url }}">{{ post.title }}</a>  	
+  	<span class="mobile-tags-view cyrillic-date" comment="we skip the date on mobile"></span>
+  	<span class="desktop-tags-view cyrillic-date"> - {{ post.date | localize: '%d. %B %Y' }}</span>	
+  </li>
 {% endfor %}
 </ul>
 <br/>

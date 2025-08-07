@@ -240,7 +240,7 @@
 	}
 	.desktop-tags-view {
 	   display: inline
-	}
+	}		
 }
 
 @include media-query-max-width-mobile($on-palm) {
@@ -252,7 +252,9 @@
 	}
 }
 
-
+.cyrillic-date {
+   font-size: $small-font-size*0.9
+}
 
 
 /**
