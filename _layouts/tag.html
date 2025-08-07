@@ -34,7 +34,7 @@ layout: default
    	   <span class="mobile-tags-view">|</span>
 	   <span>{{ category[0] }} > </span>
 	   {% for tag in category[1] %}
-		<a href="{{site.baseurl}}/tag/{{ tag }}.html">{{ tag }}</a>    	 
+		<a href="{{site.baseurl}}/tag/{{ tag }}.html">{{ tag }}</a><span> ·</span>  	 
 	   {% endfor %}
 	   <span class="desktop-tags-view"></br></span>
     {% endfor %}
