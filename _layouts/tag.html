@@ -31,7 +31,7 @@ layout: default
 <br/>
 <div id="tag-cloud">
     {% for category in site.data.tags %}   	   
-	   <span>{{ category[0] }} > </span>
+	   <span><b>{{ category[0] }} > </b></span>
 	   {% for tag in category[1] %}
 		<a href="{{site.baseurl}}/tag/{{ tag }}.html">{{ tag }}</a><span> ·</span>  	 
 	   {% endfor %}
