@@ -231,6 +231,28 @@
   background-color: #abdbe3;
 }
 
+/**
+ * Tags
+ */
+@include media-query-min-width-laptop($on-laptop) {
+	.mobile-tags-view {
+	   display: none
+	}
+	.desktop-tags-view {
+	   display: inline
+	}
+}
+
+@include media-query-max-width-mobile($on-palm) {
+	.mobile-tags-view {
+	   display: inline
+	}
+	.desktop-tags-view {
+	   display: none
+	}
+}
+
+
 
 
 /**
