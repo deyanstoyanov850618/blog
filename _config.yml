@@ -14,10 +14,6 @@ timezone: Europe/Sofia
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-date-localization
   
 feed:
   posts_limit: 20000
