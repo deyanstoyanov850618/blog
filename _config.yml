@@ -28,3 +28,6 @@ locales_path: _locales
 google_analytics: G-SVXL226WEF
 
 exclude: [to_do.txt, README.md, LICENSE, delete_meta_files.sh, backup.sh, CNAME]
+
+sass:
+   sourcemap: never
