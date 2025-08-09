@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Хлор"
+date:   2025-09-01 +0200
+tags: фми мариела буба химия
+pictureUrl : "https://lh3.googleusercontent.com/pw/AP1GczPEA9p99akS6DfAy23xP2ZEA6wemdH-tyaP3Rq2U6iSoJstp7Dg9NshIjsriNpyOo_a6IioQGZvoWSAestR5v9z-6Bg7C-EfCy3y71FGdLnJF2qX7c1Lv2HjA2_I0qAg6UjqhZMY4QLgOXie4wSuF4Y_vviBOC8bWvf_M5GeCqMd42D0o5HngdaV3zrO1YVwFU_IOVTIEd3Na1i4N9NL4h6GErpQoshAeuf3e1r-IBrv0wwGPXXjEDII09dY7cB_Sq0JZwN9WyKRYWV-Grbq-JXoU8BRbqf99KwnNHdtNqRxjJ3u8qQrM2m6h3oBofRf08dBo0uwKiRnhPh4xymOm9jrbo2joCLYBb18jTqswxHyPgKGeM5ezILPD9es5QF4ssTCYhR7EfwjXPHauOM94nhBBYQm_HAkdXwf6iZ8ANbFqHmWfKuIRCdSLqq4VK4hS478pUrjzfN1eMFOTivtkYk3AHWdaQwHhEOO5TQm3zOLqMEteYYaGGrFB6wUOc2e8DK3v9SsVZhVTS9CkYr9bKPPeKbrYywoZ5h2l0MXbpzxEnZJJYgA3sncGp6LwYyTsaOjMkU8N2dFvV4i6r2u723FionVxe6fZDqMbkN-DP2fq85GTHeSXywF2v93PNGfRucDEnPoTcR5sjWGe9r-66I1kOANzORzdHb1lbYj-IOsQjC_6xa4fAKA6vMvhfXqSJVxrMu8q-JxEtS-4TAEBMGjBAvk_9UAKqGrsLC0RDMjXj-j2RW6ruERrmtBGOMa4_fU3sBz0NzF13B6XnBEvpHi4DG02Bzv5QvjTReEJHz4AY4Ooc_KyobvxR2ZR-frC2EqH48IF7QTVx8q6nPAXNtUhdT5bopL3WUL2qMZ5REQT6Jn5ITO31HFV6NruSZIoSl3p5PISGwivoEjClpnei5sA1TRsGycTC4sgd2PbMeCrATKBnWzkM1V9k=w719-h539-no"
+---
+Тая снимка има две трактовки. Правена е до ФМИ на Джеймс Баучер 5.
+
+Като бях студент се бяхме срещнали с Буба на центъра. Разглеждахме антикварниците на улица Париж.
+Много ни харесаха два противогаза. Взехме си ги. След това с тях опитахме да влезем в народно събрание,
+но логично, не ни пуснаха :-] Тя учеше вече в Германия и София й се струваше малка. Чувствах се дете до нея.
+На снимката това е тя която ми поставя противогаз срещу азбеста във факултета. Няма никой за тебе в тоя факултет, 
+отровен е. Жълта торбичка - любимият й цвят.
+
+Един от елементите съответни на Мариела е хлорът - зелен газ.
+Мариела слага на Марти противогаз. Баща ти не ни слуша и ми писна вече,
+пускаме хлора и да се оправя. Използван е като бойно отровно вещество в 
+първата световна война. Тежък газ е и пада лесно в окопите.
+Произвеждал съм в малки количества чрез електролиза на солена вода.
+Много е задушлив. Носели са всички противогази, дори конете.
+
+![]({{page.pictureUrl}})
