@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Морски блян"
+date:   2025-08-13 +0200
+tags: мариела утопия
+pictureUrl: "https://lh3.googleusercontent.com/pw/AP1GczM6m-nDODVEnSTuKVyZJKYkOgcEn2COnj134pMHXmHj6l1DEsu-1o66_S6Bj8YqbyGr6AAjIEB_j-WUb0tmnPk6uCsZx0P2Jl_lch95VC7-T9Fm-Ry6mw66OD8lCFKvEj6VVqZweDAvtCg9oFdkEQTXNc5W92RFivXGIVcCYa0ZDCvqXXBSl26S8eFInaV-mpzDo99y1WjPrPWvBiw7OzUFPGmJzw0Yll2iLxl1WGo_gOYFoLLKb1Cpa5vszF2bMF0WeS8aoNqUHAOgydgmOe6VGwcRHwWSkSJHvS5EtsgHxCJy5BHFD1jSACqHFqvaWI6vlLG_mn_QN-OUm4J_vqBdKH7Mg4Wjs1KQRPQqnnmx8dJrZ_fjWYUaS168N0KTj9fQCB10FpyGiKcuIm5m77vaXhM0RO56XzZ8HygVHlAj9AtXgOsdDxJfec6WnyrKTwQn8ThiSi8dtOG-txwpKp2TdjNL-bukJ2TTAh1LrtGE299nWsw9GODaSAG3FiPsdw-mbI0NE1IFf0ulQT0kG3xyG5_CTrLnJmCg_BlaisF5riiOAgHk6mk7L0Q88cOOjEy4HylImG3G7RXY88QGlRgDqxh7akPZtI2zhZ5CFpTaqqFOpAR-RyMD6QgOQl7TuO-5hoxdIuUX1VTuAl0lyR8_IKXoADHqLP7L5RVdSkp3zPs9Kj_XwWO72PxxFvVizVRdW8A4UW4j8Uq63UJEB-qlvjpFVWiEE_Siu8vJN2wXNIyJ_k5WxJr7qam5SOSfiAedxKq_ly-b_Iq8xuPcJK2_qgx5G_SH4xZzGEUszTolatTbf4xtNGzOPHfntIjS06PZFqRlHzqjdw6ElLakY5ZL5bqQCjMDUcdMIeuvrjPtqzQFHXru4yYpAaiShGWxq9MLzhiOz1IIUaeW4GSXhtoyr3AcMrcBeMBYEE8gIIdjGAwvAl4NKL7cdj0=w780-h519-no"
+---
+Хем съм расъл до морето, а имам комплекс спрямо него. 
+Все не съм му се нарадвал. Не мога да си почивам на море. 
+Все съм искал цяло лято да съм под дървета на плаж и в 
+един момент толкова да свикна с тоя живот, 
+че да не се прибера. Или май най-сетне да съм се прибрал. 
+Морето нали е Мариела. Рибата нали е Бубче.
+Затова се научих и да ловя риба. Харесваше ми като идея 
+да живея до морето и да ловя риба и да се издържам от това. 
+Затова никога не съм мислил, че гърците(Краси и Мария) имат истински проблеми. 
+Хванеш си въдицата, лодката и прекараш хубав ден. 
+Объхтан от слънцето и водата. Не ти трябват други 
+неща да се умориш. После спиш, та спиш. 
+С тая цел разгледах и рибарското селище до Бургас. 
+Барака с лодка и море. Има нещо от хипи културата в мене.
+Спомням си един случай с Емо от Добрич като бяхме на Карадере.
+Спахме една нощ в лозята над плажа. Между лозите, в пръстта.
+Гледката беше много хубава. Беше ни харесало много това море. 
+Стояхме там и не ни се тръгваше. Чудехме се дали да не дезертираме от работа.
+
+Карадере. Макове. Снимката не е моя.
+
+![]({{page.pictureUrl}})
