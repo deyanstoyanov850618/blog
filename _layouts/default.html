@@ -9,7 +9,10 @@
     <title>Билкова аптека</title>
 </head>
   {%- include head.html -%}
-  <body>
+  <body>  
+    {%- if jekyll.environment == 'production' and site.google_analytics -%}
+     	{%- include google-analytics.html -%}
+    {%- endif -%}
 
     {%- include header.html -%}
 
