@@ -7,7 +7,7 @@ description: >-
   Семейството ми ще ме види по начин чрез който надявам се да ме разбере. 
   Най-сетне, пиша този блог за да разбера и себе си по-добре.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bilkova.eu" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://bilkova.eu"
 paginate: 5
 
 timezone: Europe/Sofia

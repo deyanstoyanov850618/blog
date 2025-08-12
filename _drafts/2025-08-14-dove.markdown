@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Гълъб"
+date:   2025-08-14 +0200
+tags: пътепис благоевград утопия меланхолия
+pictureUrl: "https://lh3.googleusercontent.com/pw/AP1GczMr9fZNT0VxU8Z9hKYMtOfxcPgiBd-OUL32P0IllDzbx7VUKoiFIESqFSpd6zqwUyYmuYN9njePBd8S74xYSdpsJ7J4qt8BM2SGonoA6DM99F_arRBQw-e36LwBbpYs903scYVyHLau0HyhxQhnd753Stf12GCW5CTUPqjrip06EyQKD_CApXR4yY5qbZOgVz1RpmNSrNFR4TESqN26YyQP9gaZKUcEIPCwKPBEX5FKAKMF9eBb3FujwEvA_1WmuFbou8FRKzkLSxpmnvPOW8Xp4nV3U731Y96I5tNNpsYaA9qaQMwcWz3ZpLp1_yEoYyhmtqZ0930B76PEAUl8CRmdGnOq5kr4Vv_RAYOqsoY3A1iVO_Cwnl1sdYbDyq-7jNdt3clBaZhoKvCG8ld-Rx_6zSaMA9LgJKP6cCjf7Y28UnEzBKS-Wrw01ZXybA96r-Q-V8xhANhDuwIf0xs6hEmGTsdC0dGwefVdE21Z6EoLFp-6PX-5-e8q4lADlUNFpvZWKMv-9cf6Gc7-vGRN69qDswqRE8ILGYwQs5xpAf-vNtuqGZPqLidoxJzInKEBP7PRmFo-SeSpUPMtwvDZ_kpghB2bXPW02Po_jV5uwkatNlatIhEn-FREwKyaxs4dywIiVnGwlQcHrcgRTQLqDy9I7CFfaidVTDWQBC4XzRftebzFojkIMxUUIQziMvVUOe713dQA0vTtzSmsMadk4nBMeO-_ATE6h1SHSc_pfnrFLJi5bzO7ukZu4fh4VQ4eHyUi6wWdOkVE0BhNNSxFBobV6rvSCrYsEZ6-6eG9y7Op-DPAIa8k1xe44ELrBT08eGyLk8e5wb-IROF8AP7sXszFaQxLNf1y3AIXQmgRNnQu3asZZdI5nzSVAwLQL5Hbv4Zo6_2KGfxWatVhMLgQne0f59v2R0OXK7m8TFc4H8k8H9pYhMEZAzPN9A=w958-h538-no"
+---
+Другото село което споменах в [Pirin Hill]({{ site.url }}/2025/08/11/pirin.html) е Церово.
+На тая височина духат много силни ветрове. Всички дървета бяха с изпочупени клони и малки корони.
+И нивите и мерите бяха пълни с камъни. Помислих си колко лесно е там да събереш камъни за къща.
+Много камъни. В началото на селото има църква, но изглежда повечето жители бяха помаци.
+Какъвто беше и случат с Гълъб. Друг овчар, доста по-гостоприемен от първия за който ви споменах.
+В една от разходките разглеждах дъбовете на едно от билата и срещнах иммено Гълъб.
+Заговорихме се за силата на ветровете и за дърветата. Разказа ми, че учел в строителния техникум,
+но решил да гледа овце - опитал веднъж и много му харесало. Оказа се, че гледа и пчели.
+От дума на дума стана ясно, че мога да купя от него овче сирене и мед. Отидохме до тях, приготви ми
+кило сирене и буркан с мед. Даде ми ги с голяма отстъпка - за здравето на жена ми ти ги давам евтино.
+После ме покани в селската кръчма и ме черпи оранжада. Седяхме заедно там доста време и ме запозна 
+с някой от селяните. Слушахме как си говорят. И те нас слушаха. Обясни ми всичко за това коя
+пътека и кой път на къде водят в района. Поговорихме си още малко и той ме изпрати.
+Когато вечер гледах светлините на селото през прозореца в Еленово вече знаех, че имам познат в района.
+По същото време министър председател на страната беше Гълъб Донев :-]
+
+![]({{page.pictureUrl}})
