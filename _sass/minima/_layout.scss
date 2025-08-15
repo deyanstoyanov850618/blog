@@ -227,6 +227,12 @@
    font-size: $small-font-size*0.9
 }
 
+ul.tag-list li::marker {
+   font-size: 0.9em;
+   content: '~ ';
+   //color: darken($brand-color, 15%);
+}
+
 
 /**
  * Posts
