@@ -26,19 +26,6 @@ $content-width:    800px !default;
 $on-palm:          500px !default;
 $on-laptop:        600px !default;
 
-// Use media queries like this:
-// @include media-query($on-palm) {
-//   .wrapper {
-//     padding-right: $spacing-unit / 2;
-//     padding-left: $spacing-unit / 2;
-//   }
-// }
-@mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
-  }
-}
-
 @mixin media-query-max-width-mobile($device) {
   @media screen and (max-width: $device) {
     @content;
