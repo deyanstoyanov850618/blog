@@ -132,7 +132,6 @@
   .footer-col-1 {
   	width: calc(35% - (#{$spacing-unit} / 2));
   }
-
   .footer-col-2 {
   	margin-top: -15%;
   	margin-left: 60%;
@@ -140,12 +139,6 @@
   	padding-left: 2%;
   	color: $grey-color;
   	@include relative-font-size(0.9);
-  }
-  
-  .footer-bottom {
-	padding-left: 35%;
-	color: $grey-color-dark;
-	@include relative-font-size(0.75);
   }
 }
 
@@ -155,11 +148,6 @@
     width: calc(100% - (#{$spacing-unit} / 2));
     color: $grey-color;
     @include relative-font-size(0.9);
-  }
-  .footer-bottom {   
-	text-align: center;
-	color: $grey-color-dark;
-	@include relative-font-size(0.75);
   }
 }
 
@@ -230,7 +218,10 @@
 ul.tag-list li::marker {
    font-size: 0.9em;
    content: '~ ';
-   //color: darken($brand-color, 15%);
+}
+
+li.powered-by {
+   font-size: 0.8em;
 }
 
 
