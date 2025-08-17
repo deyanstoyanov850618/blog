@@ -1,31 +1,38 @@
 /**
  * Site header
  */
-.site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
-
-  // Positioning context for the mobile navigation icon
-  position: relative;
+ 
+.header-first-column {
+  border-style : solid;
+  border-width: 1px;
+  width: 20vw;
 }
+
+.header-second-column {
+  border-style : solid;
+  border-width: 1px;
+  width: 35vw;
+  text-align: left;
+}
+
+.header-third-column {
+  border-style : solid;
+  border-width: 1px;
+  width: 45vw;
+}
+ 
 
 .site-title {
   @include relative-font-size(1.625);
-  font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
-  margin-bottom: 0;
-  float: left;
-
-  &,
   &:visited {
     color: $grey-color-dark;
   }
+  padding-left: 0;
 }
 
 .site-nav {
-  float: right;
+  float: left;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
@@ -104,23 +111,6 @@
 /**
  * Site footer
  */
-.site-footer {
-  border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
-}
-
-.footer-heading {
-  @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
-}
-
-.contact-list {
-  list-style: none;
-  margin-left: 0;
-  margin-down: 0;
-}
-
-
 @include media-query-min-width-laptop($on-laptop) {
   .footer-col-1 {
   	width: calc(35% - (#{$spacing-unit} / 2));
@@ -144,23 +134,80 @@
   }
 }
 
+.footer-col-1 {
+  border-style : solid;
+  border-width: 1px;
+  width: 20vw;
+}
+
+.footer-col-2 {
+  border-style : solid;
+  border-width: 1px;
+  text-align: left;
+  padding-left: 0;
+  width: 25vw;
+}
+
+.footer-col-3 {
+  border-style : solid;
+  border-width: 1px;
+  width: 10vw;
+}
+
+.footer-col-4 {
+  border-style : solid;
+  border-width: 1px;
+  text-align: left;
+  color: $grey-color;
+  width: 45vw;
+}
+
+.footer-desc {
+  padding-right: 250px;
+  margin-top: 0;
+  @include relative-font-size(0.9);
+}
+
+.footer-table {
+}
+
+
+.site-footer {
+   bottom: 0;
+   position: absolute;
+  // background-image: url('https://lh3.googleusercontent.com/pw/AP1GczPsyFz68xgKMXnlCRdlJtyAuNbqkzP7yArK8Tfh3bd6r4OSCW_RsLW6brZnKtmHbnJbXemQXhO6HuiqjcB0CXj7wvAuKsm1fxEeXg3LlxmA4yQzEBI9b8BG6WHNqAHJxASyexGCbMZXgVPKd3PaLyTUzPeIa5NfbhV6BME92nhZ4vHAHjF5ELmZB9pIeML8j1h3bUjc758jdf-awf_5b3CjUCGRzudH1MvHfgNSwDhw5mYr2S0i1EGpher0dGeeuo6T8vjkaArByNod_WHYnc3A31JXJRXowM3vgIwPGsx0U8h7ym0wD-XEy8uD-w3YHaAI2MAg9t3STlqiYttCdJHK7LB7DAoi9D-OCYW8aLlzHZ6zMRuQJAHWLWHmt4IIb2bnPhmS_BcpgAHltQiLw-uLHQJ2QIsi8dniHSORuokPLWMkrOyi6kdkwMKkGsCZ5Ff2L47nSYoTvjqxIoIwxhtV5U9kZm7HJtGevrIxPbzggIIYYBMC3uw4SdFVrsgI462YPBWhkGYAGBpyy3OwJ1BdY4tTCOksxYxMEgfggasM1HYKiEhORVSyOaeyhg8g1UY7lkYSPWXPWabRnOGA_-mvLGvwVjNZcVpttQKOSEslOgepTGMFDd86pAxoxuaCfT3U6fRGsyMEFS9FIVA3jOGcNORQsr8VTgC_pjGi3x093V4Ji9OVCwEUzB1Pt-A2zlAhO0y-J462RQQi_sFALyx-n8x-ITjdleJlkIiuMiA_a3bynspZDzrblCsOe_ar7vKUTHSfYkz0wVeXxEXeNwK7LjyuCVXsSLmoKAPV4JY_6J9jUfb5i0MC6veou03F7a5VzeZuL_jqPXHl-voDaWBOHlPrRepKnaYR5bTgTKpp0t2gw066yUTnUpdhunuzc_GQpCWwt2VUCC4A2kGcL00hEBUyc389V97_Xe7LD39jFyFaw3AEAZ5s=w890-h593-no');
+}
+
+
+.footer-heading {
+   margin-top: 0;
+}
+
 /**
- * Page content
+ * Default content
  */
-.page-content {
-  padding: $spacing-unit 0;
-  flex: 1;
+ 
+.default-col-1 {
+  border-style : solid;
+  border-width: 1px;
+  width: 20vw;
 }
 
-.page-heading {
-  @include relative-font-size(2);
+.default-col-2 {
+  border-style : solid;
+  border-width: 1px;
+  text-align: left;
+  width: 60vw;
 }
 
-.post-list-heading {
-  @include relative-font-size(1.75);
+.default-col-3 {
+  border-style : solid;
+  border-width: 1px;
+  width: 20vw;
 }
 
 .post-list {
+  margin-top: 0;
   margin-left: 0;
   list-style: none;
 
@@ -176,7 +223,12 @@
 
 .post-link {
   display: block;
-  @include relative-font-size(1.5);
+  margin-top: 0;
+  @include relative-font-size(1.3);
+}
+
+.pagination {
+  margin-top: 0px;
 }
 
 .just-as-code-block {
@@ -213,8 +265,9 @@ ul.tag-list li::marker {
    content: '· ';
 }
 
-li.powered-by {
-   font-size: 0.8em;
+.powered-by {
+   font-size: 0.7em;
+   line-height: 27px;
 }
 
 #tag-cloud {
@@ -225,10 +278,11 @@ li.powered-by {
 /**
  * Posts
  */
-.post-header {
-  margin-bottom: $spacing-unit;
-}
 
+.post-list{
+  padding-left: 0;
+}
+ 
 .post-title {
   @include relative-font-size(2.625);
   letter-spacing: -1px;
@@ -239,7 +293,7 @@ li.powered-by {
   }
 }
 
-.post-content {
+.default-content {
   margin-bottom: $spacing-unit;
   img:not(.custom) {
   	  border: 2px solid #ddd;

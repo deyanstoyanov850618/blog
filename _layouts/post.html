@@ -14,9 +14,7 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+  {{ content }}
   
   {%- if page.tags -%}
     {% for tag in page.tags %}

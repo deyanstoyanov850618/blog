@@ -15,39 +15,29 @@ layout: default
 	   preloadImage("{{post.pictureUrl}}");
   {% endif %}
 {% endfor %}
-
 </script>
 
-<div class="home">
-{%- if page.title -%}
-<h1 class="page-heading">{{ page.title }}</h1>
-{%- endif -%}
-  
 <!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-    <ul class="post-list">
-  	  <li>
-        <span class="post-meta">{{ post.date | localize: '%d. %B %Y' }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-      </li>
-    </ul>
-{% endfor %}
+<ul class="post-list">
+	{% for post in paginator.posts %}				
+		<li>
+			<span class="post-meta">{{ post.date | localize: '%d. %B %Y' }}</span>
+			<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+		</li>
+	{% endfor %}
+</ul>
 
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous"><=</a>
+	<a href="{{ paginator.previous_page_path }}" class="previous"><=</a>
   {% endif %}
   <span class="page_number ">
-    {{ paginator.page }} от {{ paginator.total_pages }}
+	{{ paginator.page }} от {{ paginator.total_pages }}
   </span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">=></a>
+	<a href="{{ paginator.next_page_path }}" class="next">=></a>
   {% endif %}
 </div>
-<br/>
-</div>
+	  
+

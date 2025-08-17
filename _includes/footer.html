@@ -1,25 +1,18 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-  <div class="footer-col-1">
-	<ul class="contact-list">
-	  <li class="p-name">		
-		{{ site.author | escape }}		
-	  </li> 
-	  <li>
-	    <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-	  </li>
-	  <li class="powered-by">
-		Jekyll / GitHub / 2025
-	  </li>            
-	</ul>
-  </div>
-
-  <div class="footer-col-2">
-	<p>{{- site.description | escape -}}</p>
-  </div> 
-
+<footer class="site-footer">
+  <table class="footer-table">
+    <tr>
+		<th class="footer-col-1"/th>
+		<th class="footer-col-2">
+		   <h2 class="footer-heading">{{ site.title | escape }}</h2>
+		   <div class="author-name">{{ site.author | escape }}</div> 
+		   <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+		   <div class="powered-by">Jekyll / GitHub / 2025</div>		  
+		</th>
+		<th class="footer-col-3"/>           	
+		<th class="footer-col-4">  
+		   <p class="footer-desc">{{- site.description | escape -}}</p>
+		</th>
+    </tr>
+  </table>
 </footer>
 
