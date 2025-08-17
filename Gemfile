@@ -8,4 +8,3 @@ group :jekyll_plugins do
   gem "jekyll-date-localization", "~> 0.0.9"
   gem "jekyll-sitemap", "~> 1.4"
 end
-
